@@ -42,7 +42,7 @@ namespace Supermarket_Management_System_In_csharp
             {
                 if (txt_Username.Text == "" || txt_Password.Text == "")
                 {
-                    MessageBox.Show("Yor are Loggin Detail Is Invalied", "Try Again", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Yor are Loggin Detail Is Invalid", "Try Again", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
                 }
                 else
@@ -68,7 +68,7 @@ namespace Supermarket_Management_System_In_csharp
                     }
                     else
                     {
-                        MessageBox.Show("Yor are Loggin Detail Is Invalied", "Try Again", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("Yor are Login Detail Is Invalid", "Try Again", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
                     }
 
