@@ -1,1 +1,1 @@
-# Supermarket Management System In csharp
+# Supermarket Management System c#
